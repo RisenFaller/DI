@@ -1,0 +1,33 @@
+LEERSTOF:
+
+✅ aliassen voor joins
+
+✅ INNER en OUTER joins
+
+✅ gecorreleerde subquerries
+
+✅ GROUP BY en HAVING
+
+❌ RANKING FUNCTIONS
+
+✅ CTE's
+
+✅ EXISTS
+
+✅ UNION, EXCEPT, INTERSECT
+
+❌ STORED PROCEDURE
+
+❌ TRIGGER
+
+❌ SET based oplossingen
+
+❌ LOOPS en CURSORS
+
+❌ system functions
+
+❌ TRIGGER inserted en deleted
+
+❌ exception handling
+
+❌ transactiemanagement
